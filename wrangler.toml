@@ -1,0 +1,8 @@
+name = "baserow-api-proxy"
+main = "index.js"
+compatibility_date = "2025-04-24"
+
+[vars]
+BASEROW_TABLE_ID = "522057"
+BASEROW_TOKEN = "FgijpVhEzLDruzS0YJLAZCfkFU2KuX5i"
+HISTORY_TABLE_ID = "514200"
